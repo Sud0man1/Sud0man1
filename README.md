@@ -5,7 +5,7 @@ root@Sud0Man1:/$ cat README.txt
         #  Hey there, I’m @Sud0man1 (⌐■_■)                            
         !  Currently studying a degree in Computer Science - LOADING ███▒▒▒▒▒▒▒    
         ./ Linux Enthusiast
-        &  Interested in: Java and C++ software development           
+        &  Interested in: Java and NestJS         
         $  sudo apt install segfault :)
 
       ==========================================================================
